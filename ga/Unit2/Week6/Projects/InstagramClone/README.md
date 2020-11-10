@@ -10,7 +10,7 @@
 
 ### Overview
 
-This is a clone of Instagram to learn and show all the nooks and crannies of back-end while also displaying how well the front-end flows.
+This is a clone of Instagram to learn and show all the nooks and crannies of the back-end while also displaying how well the front-end flows.
 
 ---
 
@@ -31,5 +31,5 @@ Signup and create posts using pictures and videos you want to share with others.
 
 ### Goals
 
-- [ ] Create backend with authentication inlcuding signup/login
+- [ ] Create - with authentication inlcluding signup/login
 - [ ] Show the signup/login works then begin
